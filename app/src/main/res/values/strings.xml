@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cast Test</string>
+    <string name="media_route_menu_title">Cast Screen</string>
+</resources>
