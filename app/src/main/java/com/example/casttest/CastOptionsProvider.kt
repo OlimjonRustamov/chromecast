@@ -18,7 +18,7 @@ class CastOptionsProvider : OptionsProvider {
         return CastOptions.Builder()
             .setReceiverApplicationId(CastMediaControlIntent.DEFAULT_MEDIA_RECEIVER_APPLICATION_ID)
 //            .setReceiverApplicationId("C0868879")
-            .setSupportedNamespaces(supportedNamespaces)
+//            .setSupportedNamespaces(supportedNamespaces)
             .build()
     }
 
